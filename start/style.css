@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.love_foto{
+    /* float: center; */
+    border: 5px solid red;  
+}
+
+.container-fluid{
+    background-color: rgba(248, 98, 148, 0.39);
+}
+
+.navbar-brand{
+    font-style: italic;
+    text-decoration: none;
+    font-size: 35px;
+}
